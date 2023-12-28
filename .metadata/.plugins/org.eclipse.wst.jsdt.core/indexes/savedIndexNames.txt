@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\rmsdn\Desktop\rlarmsdn\python\nlp\nlp_project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2265142938.index
+34433760.index
+2694517806.index
+3699674878.index
+3017674175.index
+1104195071.index
+2481782220.index
